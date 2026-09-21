@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=FARHAN+ADI+CHANDRA&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Developer&descSize=25&descAlign=50&descAlignY=67
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=FARHAN+ADI+CHANDRA&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Software+Developer&descSize=25&descAlign=50&descAlignY=67)
 
 # 💫 About Me:
 Hi there! 👋 Welcome to my GitHub. I'm a Junior Full-Stack Developer and a Software Engineering student at Universitas Gadjah Mada (UGM). With over 3 years of programming experience, I specialize in building robust web applications and am deeply passionate about modern web technologies.
